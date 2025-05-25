@@ -20,3 +20,5 @@ The dataset used includes features like customer demographics, account info, and
 - matplotlib
 - seaborn
 - pickle
+
+Then, by saving the file using pickle and downloading it, i deployed the model into StreamLit for predicting the outcome. That is, the customer will churn(likely to unsubscribe the service) or not.
